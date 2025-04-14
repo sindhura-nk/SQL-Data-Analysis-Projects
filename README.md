@@ -17,4 +17,4 @@ This repository showcases a collection of data analysis projects executed using 
 ## 🛠️ Tools & Technologies
 * SQL Dialects: My SQL​
 * Database Management Systems: Compatible with MySQL
-* Visualization: Dashboards and charts created using tools like Excel and Tableau​
+* Visualization: Dashboards and charts created using tools like Excel, Power BI and Tableau​
